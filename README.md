@@ -1,6 +1,4 @@
-Certainly! Here's a sample README file for your e-commerce website repository at https://github.com/Prathap2000/e-commerce-website.git:
 
----
 
 # E-Commerce Website
 
